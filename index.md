@@ -12,3 +12,6 @@ This is normal size text.
 This is normal size text.
 
 Add texts to compare the size of normal text and header.
+
+# Add an image
+![A pegion and peace symbol](https://static.vecteezy.com/system/resources/previews/010/478/650/original/peace-dove-with-symbol-vector.jpg)
