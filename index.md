@@ -20,3 +20,10 @@ Add texts to compare the size of normal text and header.
 ``` rust
 let mut m = 4
 ```
+- [ ] empty task
+- []
+
+# Add a task list
+- [x] Start learning GitHub markdown
+- [x] Register for CS50 on Edx
+- [ ] Buy Coursera subscription to get IBM Professional Certificate in Data Science
